@@ -1,0 +1,80 @@
+body{
+  background-color:#1AD089;
+  color:#9405C1;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:30px;
+	font-weight:normal;
+	font: normal 16px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";	/*same as above*/
+	line-height:1.6em;
+	margin:0;
+}
+.container{
+	width:80%;
+	margin:10px 10px 0px 10px;
+	padding:20px;
+	border-left:2px #ffffff dashed;
+}
+.box-1{
+	color:#9405C1;
+	margin-top:50px
+}
+
+a{
+	text-decoration: none;
+	color: rebeccapurple;
+}
+a:hover{
+	color:#FF00FF
+		
+}
+
+a:visited{
+	color:none;
+}
+.MainLinks h1{
+	color: aliceblue;
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size:60px;
+	text-align: center;
+	margin-top:50px;
+}
+.MainLinks a{
+	background-color:#9405C1;
+	color:aliceblue;
+	float:left;
+	width:20%;
+	border:1px dashed #fff;
+	padding: 5px;
+	margin:0px;
+	box-sizing: border-box;
+	
+}
+.box-1 h1{
+	color: aliceblue;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 800;
+	font-style:italic;
+	text-decoration:underline;
+	text-transform:uppercase;
+	letter-spacing: .2em;
+	word-spacing:0em;
+	text-align: left;
+}
+.box-1 h2{
+	
+}
+.box-1 p{
+	color: aliceblue;
+}
+.photo {
+	float:left;
+	box-sizing: border-box;
+}
+.box-2 p{
+	float:right;
+	text-align: center;
+	padding-right: 20px;
+	box-sizing: border-box;
+	font-size: 30px;
+}
